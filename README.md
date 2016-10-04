@@ -3,7 +3,7 @@ This is react-native starter boilerplate for client
 # Features
 
 - [React](https://github.com/facebook/react)
-- React-Native
+- [React-Native](https://facebook.github.io/react-native/docs/)
 - Native-Base
 - React-Native-Redux
 - Redux
@@ -35,11 +35,11 @@ $ npm i webpack-dev-server --save-dev
 ```
 # Start and Test on Android
 ```
-react-native android
+react-native run-android
 ```
-# Start and Test on Android
+# Start and Test on IOS
 ```
-react-native ios
+react-native run-ios
 ```
 # Start and Test on Web
 
