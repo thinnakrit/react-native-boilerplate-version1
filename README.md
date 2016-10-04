@@ -33,7 +33,15 @@ $ npm i webpack-dev-server --save-dev
 +- index.html
 
 ```
-# Start and Test
+# Start and Test on Android
+```
+react-native android
+```
+# Start and Test on Android
+```
+react-native ios
+```
+# Start and Test on Web
 
 Now, just run 
 ```
