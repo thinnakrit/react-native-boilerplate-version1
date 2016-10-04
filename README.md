@@ -35,17 +35,17 @@ $ npm i webpack-dev-server --save-dev
 ```
 # Start and Test on Android
 ```
-react-native run-android
+cmd >> react-native run-android
 ```
 # Start and Test on IOS
 ```
-react-native run-ios
+cmd >> react-native run-ios
 ```
 # Start and Test on Web
 
 Now, just run 
 ```
-./node_modules/.bin/webpack-dev-server --inline 
+cmd >> ./node_modules/.bin/webpack-dev-server --inline 
 ```
 to start webpack, and open your browser to http://localhost:8080/. Fingers crossed, you will see a familiar welcome message but in the browser!
 
