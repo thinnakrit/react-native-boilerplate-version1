@@ -24,13 +24,14 @@ $ npm i webpack babel-loader babel-preset-react babel-preset-es2015 --save
 $ npm i webpack-dev-server --save-dev
 
 ```
-# Copy File and Edit for use
+# Copy File and Edit for use (Replace "You App Name")
 ```
 +- ./app
 +- index.web.js
 +- index.ios.js
 +- index.android.js
 +- index.html
++- webpack.config.js
 
 ```
 # Start and Test on Android
