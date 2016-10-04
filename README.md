@@ -3,6 +3,11 @@ This is react-native starter boilerplate for client
 # Features
 
 - [React](https://github.com/facebook/react)
+- React-Native
+- Native-Base
+- React-Native-Redux
+- Redux
+- React-Native-Router
 
 # Getting Started
 ```
@@ -25,6 +30,7 @@ $ npm i webpack-dev-server --save-dev
 +- index.web.js
 +- index.ios.js
 +- index.android.js
++- index.html
 
 ```
 
