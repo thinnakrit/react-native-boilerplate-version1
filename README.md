@@ -33,5 +33,9 @@ $ npm i webpack-dev-server --save-dev
 +- index.html
 
 ```
+# Start and Test
+```
+Now, just run ./node_modules/.bin/webpack-dev-server --inline to start webpack, and open your browser to http://localhost:8080/. Fingers crossed, you will see a familiar welcome message but in the browser!
 
+```
 Thank you for your suggestions!
