@@ -5,18 +5,18 @@ import {
   Text,
   View
 } from 'react-native';
-import CommerzyMain from './app'
+import Main from './app'
 
-class Commerzy extends Component {
+class App extends Component {
   render() {
     return (
-      <CommerzyMain />
+      <Main />
     );
   }
 }
 
 
-AppRegistry.registerComponent('Commerzy', () => Commerzy);
+AppRegistry.registerComponent('You App Name', () => App);
 
 
-AppRegistry.runApplication('Commerzy', { rootTag: document.getElementById('react-app') });
+AppRegistry.runApplication('You App Name', { rootTag: document.getElementById('react-app') });
