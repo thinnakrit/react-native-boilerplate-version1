@@ -12,6 +12,7 @@ This is react-native starter boilerplate for client
 # Getting Started
 ```
 $ npm install -g react-native-cli
+$ git clone https://github.com/thinnakrit/React-Native-Boilerplate.git AwesomeProject
 $ react-native init AwesomeProject
 $ cd AwesomeProject
 
